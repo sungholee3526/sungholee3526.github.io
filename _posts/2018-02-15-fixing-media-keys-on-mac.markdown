@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fixing Media Keys on Mac"
-date: 2018-01-08 00:00:00 +0900
+date: 2018-02-15 00:00:00 +0900
 ---
 
 Back in the days when Sierra hadn't reached its "high" yet, if you pressed the
