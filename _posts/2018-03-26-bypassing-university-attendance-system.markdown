@@ -4,8 +4,6 @@ title: "Bypassing My University's e-Attendance System"
 date: 2018-03-26 00:00:00 +0900
 ---
 
-![An AI generated image of a student skipping a class]({{ site.baseurl }}/assets/img/bypassing-university-attendance-system/skipping-class.jpg)
-
 I attend a university in South Korea. In Korean universities, class attendance
 often makes up a significant portion of the final grade. At my school, missing
 more than 25% of classes results in an automatic failing grade for the course.
