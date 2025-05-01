@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reverse Engineering Kodak Photo Printer Mini: Building a Better App"
+title: "Reverse Engineering a Kodak Photo Printer: Building a Better App"
 date: 2022-05-18 00:00:00 +0900
 ---
 
